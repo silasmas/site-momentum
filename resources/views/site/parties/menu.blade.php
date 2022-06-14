@@ -22,12 +22,12 @@
         <div class="topbar-area style1">
             <div class="container custom">
                 <div class="row y-middle">
-                    <div class="col-lg-7">
+                    <div class="col-lg-8">
                         <div class="topbar-contact">
                            <ul>
                                <li>
                                    <i class="flaticon-email"></i>
-                                   <a href="mailto:contact@momentum-academie.com">contact@momentum-academie.com</a>
+                                   <a href="mailto:contact@momentum-academie.com">contact@momentum.com</a>
                                </li>
                                <li>
                                    <i class="flaticon-call"></i>
@@ -40,7 +40,7 @@
                            </ul>
                         </div>
                     </div>
-                    <div class="col-lg-5 text-right">
+                    <div class="col-lg-4 text-right">
                         <div class="toolbar-sl-share">
                             <ul>
                                  <li class="opening"> <em><i class="flaticon-clock"></i>Lundi - Dimanche / 8H - 19H</em> </li>
