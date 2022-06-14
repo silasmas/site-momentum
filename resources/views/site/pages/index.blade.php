@@ -487,7 +487,7 @@
 
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="assets/images/project/style2/1.jpg" alt="images">
+                            <img src="assets/images/project/1.jpg" alt="images">
                         </div>
                         <div class="project-content"> 
                             <div class="project-inner">
@@ -499,7 +499,7 @@
                     </div>
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="assets/images/project/style2/2.jpg" alt="images">
+                            <img src="assets/images/project/2.jpg" alt="images">
                         </div>
                         <div class="project-content"> 
                             <div class="project-inner">
@@ -511,7 +511,7 @@
                     </div>
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="assets/images/project/style2/3.jpg" alt="images">
+                            <img src="assets/images/project/3.jpg" alt="images">
                         </div>
                         <div class="project-content"> 
                             <div class="project-inner">
@@ -523,7 +523,7 @@
                     </div>
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="assets/images/project/style2/4.jpg" alt="images">
+                            <img src="assets/images/project/4.jpg" alt="images">
                         </div>
                         <div class="project-content"> 
                             <div class="project-inner">
@@ -535,7 +535,7 @@
                     </div>
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="assets/images/project/style2/5.jpg" alt="images">
+                            <img src="assets/images/project/1.jpg" alt="images">
                         </div>
                         <div class="project-content"> 
                             <div class="project-inner">
@@ -547,7 +547,7 @@
                     </div>
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="assets/images/project/style2/6.jpg" alt="images">
+                            <img src="assets/images/project/2.jpg" alt="images">
                         </div>
                         <div class="project-content"> 
                             <div class="project-inner">
@@ -559,7 +559,7 @@
                     </div>
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="assets/images/project/style2/7.jpg" alt="images">
+                            <img src="assets/images/project/3.jpg" alt="images">
                         </div>
                         <div class="project-content"> 
                             <div class="project-inner">
@@ -571,7 +571,7 @@
                     </div>
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="assets/images/project/style2/1.jpg" alt="images">
+                            <img src="assets/images/project/1.jpg" alt="images">
                         </div>
                         <div class="project-content"> 
                             <div class="project-inner">
